@@ -21,4 +21,5 @@ public class Address {
         this.street = street;
         this.zipcode = zipcode;
     }
+
 }
